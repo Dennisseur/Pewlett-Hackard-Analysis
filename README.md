@@ -16,17 +16,17 @@
 ## Results:
 Retiring by Title:
 
-•	Of the 300,024 employees within the company, 90,398 are eligible for retirement.
+Of the 300,024 employees within the company, 90,398 are eligible for retirement.
 
-•	Titles with most retirees are list below and combined they account for 64% of all positions eligible for retirements
+Titles with most retirees are list below and combined they account for 64% of all positions eligible for retirements
 
-o	Senior Engineers - 29414
+  o	Senior Engineers - 29414
 
-o	Senior Staff – 28254 
+  o	Senior Staff – 28254 
 
 Eligible for the Mentorship Program:
 
-•	There are 1,940 employees eligible for the mentorship program that were born between 1/1/1965 & 12/31/1965
+There are 1,940 employees eligible for the mentorship program that were born between 1/1/1965 & 12/31/1965
 
 ## Summary:
 Pewlett Hackard has approximately 90,000 employees available for retirement. That is about 30% of its overall employee count of 300,024. They only have a handful of employees that are eligible for the mentorship program based on the age requirements. 
