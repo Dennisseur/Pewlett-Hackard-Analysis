@@ -3,11 +3,14 @@
 ## The HR Department at Pewlett Hackard wants to setup a mentorship program for employees. To do this needed us to identify the number of retiring employees by title and identify the number of employees eligible for the mentorship program. 
 
 •	Deliverable 1: The Number of Retiring Employees by Title
+
 •	Deliverable 2: The Employees Eligible for the Mentorship Program
+
 •	Deliverable 3: A written report on the employee database analysis
 
 ## Software
 •	PostgreSQL pgAdmin
+
 •	Visual Studio Code
 
 ## Results:
